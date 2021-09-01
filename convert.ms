@@ -1,7 +1,7 @@
 opts = maxOps.mxsCmdLineArgs
 
 -- test var(s)
-opts[#fRoot]="C:\\Users\\Christopher Towner\\Desktop\\Models"
+opts[#fRoot]="C:\\Users\\Ivan\\Desktop\\cmda\\cmdb"
 opts[#fPattern]="*.3ds"
 opts[#fExt]=".fbx"
 
